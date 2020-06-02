@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <gradient
+        android:angle="180"
+        android:centerColor="@color/seekbar_progress_background"
+        android:endColor="@color/seekbar_progress_background"
+        android:startColor="@color/seekbar_progress_background" />
+
+</shape>

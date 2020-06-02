@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- Seekbar colors -->
+    <color name="seekbar_progress">#07D9F8</color>
+    <color name="seekbar_secondary_progress">#ADACAC</color>
+    <color name="seekbar_progress_background">#99555555</color>
+    <color name="parental_dialog_background">#E6000000</color>
+
+
+</resources>

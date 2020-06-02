@@ -1,0 +1,344 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.gms:play-services-cast:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/dadac35b3a18fce62b570c7ab2398692/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4352ab001465908f85d790767826b8df/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/a01663f38117b1b6373dd9da0a4f02b8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.2.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/676da0a0d0768f20d789b8084716dd99/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/7b4848701ff53be33de464f033a55774/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/38b2d9556637050a2e444ffb883a5cf8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4bab2660cb4f528118a629090a342de9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/369a0367adfdba2e8d6a1c880a6a0d25/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.4.0-alpha01] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/3785ee0aab71a3af6c30a0224ced3cc9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/e27579edd294285f2ef57130d976a399/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/6fb1713d00f452f62fe108058386cc38/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/1f0dd167f47e26a9bf47a03ca7eae2cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/5685c6853d537d61ea7093edfdb2bf79/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/bc36983ad211e3749ee37117648a18cd/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f33506909e27fb7709209ee8dd8d1342/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/202e7d3c217685a64e780c10e0b65835/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/926fa7ec84d77734aad9fef6b13e62a4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/7a39c7d2c3f0dffe5d24ddced848699c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f87e07d5552d5a0c97b4af47f89ce30f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/78860046f9049052f16e885ea409916a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4caa3c4ca9037251cae7f9be18afb16c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/6af6bcd8b389752c01f6d033b5c1cfda/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4f4dbd3ec8e32a7d001f65365843343d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/9931e5ada0322f178361b1ff160c2c12/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/b0369cc5c73c248692bbf00a0ef95310/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/907c7a63aa7f68a65861178d88f21732/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2d4d39b07271f8cd7bdebace5249b4c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/15b71e0bca77bf92eb554391f76c2a08/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4ec28f884cc804817965593abc983163/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b068c710f737851f45e855557183c0a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2728a8570db906913c83cfb1cad41e3e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/9f260bbffccfcba5a65976baf0998f71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/31ef15e05b7a19806c8847fdb8491b54/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.4.0-alpha01] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/5ce804fb041848ccf9c4dbfedf5e4803/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/c9be2f9a0149dab83df51487004c5b93/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/9cd87bdd38081f75f38fd97d13bd4d33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:15:1-41:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/be6f657d5633cc250f4a13a0baa233b7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/36acb760f43e7ded492a68ddab96f611/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/58440577a406ac2088d4560c351f5945/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4574ec54cd136a00d9dac8640f40294c/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/13a89e8dee044cbdf937ab677df3fb59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/463c4b4be80702fcea50e2d903b799a0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/6bc6c32dbdce9a7dd30429602d158c9c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f162e7f6fe60704b7403461e8170b555/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/52e5bbc8f84f84bd76387ef0f5fec1e4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/0bd4f3003654bce52ba546a072f67f8b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/7cae0a8422ad865c0044879146c250f5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/34b5bd6b49521f4e029bd93af3a44e6e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/0b0e968492a2f4c5088533e912fb1d72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/13cbab3a8adfef39bba01a2ff690c52f/AndroidManifest.xml:15:1-22:12
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:3:5-72
+		INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:7:5-78
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4574ec54cd136a00d9dac8640f40294c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4574ec54cd136a00d9dac8640f40294c/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:8:5-33:19
+MERGED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.android.gms:play-services-cast:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/dadac35b3a18fce62b570c7ab2398692/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/dadac35b3a18fce62b570c7ab2398692/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4bab2660cb4f528118a629090a342de9/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4bab2660cb4f528118a629090a342de9/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/e27579edd294285f2ef57130d976a399/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/e27579edd294285f2ef57130d976a399/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/bc36983ad211e3749ee37117648a18cd/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/bc36983ad211e3749ee37117648a18cd/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f33506909e27fb7709209ee8dd8d1342/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f33506909e27fb7709209ee8dd8d1342/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/202e7d3c217685a64e780c10e0b65835/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/202e7d3c217685a64e780c10e0b65835/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.4.0-alpha01] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/5ce804fb041848ccf9c4dbfedf5e4803/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.4.0-alpha01] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/5ce804fb041848ccf9c4dbfedf5e4803/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/c9be2f9a0149dab83df51487004c5b93/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/c9be2f9a0149dab83df51487004c5b93/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:25:5-39:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.4.0-alpha01] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/5ce804fb041848ccf9c4dbfedf5e4803/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:12:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:13:9-69
+meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
+ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:14:9-16:109
+	android:value
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:16:13-106
+	android:name
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:15:13-93
+activity#com.google.ads.interactivemedia.v3.samples.videoplayerapp.MyActivity
+ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:19:13-45
+	android:configChanges
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:20:13-122
+	android:name
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:18:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.google.ads.interactivemedia.v3.samples.mediaset.PlayerVodActivity
+ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:26:9-31:20
+	android:screenOrientation
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:29:13-56
+	android:configChanges
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:28:13-74
+	android:name
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml:27:13-97
+uses-sdk
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/dadac35b3a18fce62b570c7ab2398692/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/dadac35b3a18fce62b570c7ab2398692/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4352ab001465908f85d790767826b8df/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.mediarouter:mediarouter:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4352ab001465908f85d790767826b8df/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/a01663f38117b1b6373dd9da0a4f02b8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/a01663f38117b1b6373dd9da0a4f02b8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/676da0a0d0768f20d789b8084716dd99/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.2.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/676da0a0d0768f20d789b8084716dd99/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/7b4848701ff53be33de464f033a55774/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/7b4848701ff53be33de464f033a55774/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/38b2d9556637050a2e444ffb883a5cf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/38b2d9556637050a2e444ffb883a5cf8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4bab2660cb4f528118a629090a342de9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.2] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4bab2660cb4f528118a629090a342de9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/369a0367adfdba2e8d6a1c880a6a0d25/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/369a0367adfdba2e8d6a1c880a6a0d25/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.4.0-alpha01] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/3785ee0aab71a3af6c30a0224ced3cc9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.4.0-alpha01] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/3785ee0aab71a3af6c30a0224ced3cc9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/e27579edd294285f2ef57130d976a399/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/e27579edd294285f2ef57130d976a399/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/6fb1713d00f452f62fe108058386cc38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/6fb1713d00f452f62fe108058386cc38/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/1f0dd167f47e26a9bf47a03ca7eae2cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/1f0dd167f47e26a9bf47a03ca7eae2cc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/5685c6853d537d61ea7093edfdb2bf79/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/5685c6853d537d61ea7093edfdb2bf79/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/bc36983ad211e3749ee37117648a18cd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/bc36983ad211e3749ee37117648a18cd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f33506909e27fb7709209ee8dd8d1342/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f33506909e27fb7709209ee8dd8d1342/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/202e7d3c217685a64e780c10e0b65835/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/202e7d3c217685a64e780c10e0b65835/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/926fa7ec84d77734aad9fef6b13e62a4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/926fa7ec84d77734aad9fef6b13e62a4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/7a39c7d2c3f0dffe5d24ddced848699c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/7a39c7d2c3f0dffe5d24ddced848699c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f87e07d5552d5a0c97b4af47f89ce30f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f87e07d5552d5a0c97b4af47f89ce30f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/78860046f9049052f16e885ea409916a/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/78860046f9049052f16e885ea409916a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4caa3c4ca9037251cae7f9be18afb16c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4caa3c4ca9037251cae7f9be18afb16c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/6af6bcd8b389752c01f6d033b5c1cfda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/6af6bcd8b389752c01f6d033b5c1cfda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4f4dbd3ec8e32a7d001f65365843343d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4f4dbd3ec8e32a7d001f65365843343d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/9931e5ada0322f178361b1ff160c2c12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/9931e5ada0322f178361b1ff160c2c12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/b0369cc5c73c248692bbf00a0ef95310/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/b0369cc5c73c248692bbf00a0ef95310/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/907c7a63aa7f68a65861178d88f21732/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/907c7a63aa7f68a65861178d88f21732/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2d4d39b07271f8cd7bdebace5249b4c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2d4d39b07271f8cd7bdebace5249b4c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/15b71e0bca77bf92eb554391f76c2a08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/15b71e0bca77bf92eb554391f76c2a08/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4ec28f884cc804817965593abc983163/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4ec28f884cc804817965593abc983163/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b068c710f737851f45e855557183c0a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b068c710f737851f45e855557183c0a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2728a8570db906913c83cfb1cad41e3e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2728a8570db906913c83cfb1cad41e3e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/9f260bbffccfcba5a65976baf0998f71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/9f260bbffccfcba5a65976baf0998f71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/31ef15e05b7a19806c8847fdb8491b54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/31ef15e05b7a19806c8847fdb8491b54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.4.0-alpha01] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/5ce804fb041848ccf9c4dbfedf5e4803/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.4.0-alpha01] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/5ce804fb041848ccf9c4dbfedf5e4803/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/c9be2f9a0149dab83df51487004c5b93/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/c9be2f9a0149dab83df51487004c5b93/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/9cd87bdd38081f75f38fd97d13bd4d33/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/9cd87bdd38081f75f38fd97d13bd4d33/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/be6f657d5633cc250f4a13a0baa233b7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/be6f657d5633cc250f4a13a0baa233b7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/36acb760f43e7ded492a68ddab96f611/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/36acb760f43e7ded492a68ddab96f611/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/58440577a406ac2088d4560c351f5945/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/58440577a406ac2088d4560c351f5945/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4574ec54cd136a00d9dac8640f40294c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.6] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4574ec54cd136a00d9dac8640f40294c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/13a89e8dee044cbdf937ab677df3fb59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/13a89e8dee044cbdf937ab677df3fb59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/463c4b4be80702fcea50e2d903b799a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/463c4b4be80702fcea50e2d903b799a0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/6bc6c32dbdce9a7dd30429602d158c9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/6bc6c32dbdce9a7dd30429602d158c9c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f162e7f6fe60704b7403461e8170b555/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/f162e7f6fe60704b7403461e8170b555/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/52e5bbc8f84f84bd76387ef0f5fec1e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/52e5bbc8f84f84bd76387ef0f5fec1e4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/0bd4f3003654bce52ba546a072f67f8b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/0bd4f3003654bce52ba546a072f67f8b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/7cae0a8422ad865c0044879146c250f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/7cae0a8422ad865c0044879146c250f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/34b5bd6b49521f4e029bd93af3a44e6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/34b5bd6b49521f4e029bd93af3a44e6e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/0b0e968492a2f4c5088533e912fb1d72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/0b0e968492a2f4c5088533e912fb1d72/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/13cbab3a8adfef39bba01a2ff690c52f/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/13cbab3a8adfef39bba01a2ff690c52f/AndroidManifest.xml:18:5-20:41
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergiomendoza/Projects/AdvancedExample/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:7:22-74
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:10:9-12:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:11:13-91
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:15:13-96
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:18.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/4e62b07e117ba56f8cf02b8085aebb04/AndroidManifest.xml:18:13-85
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/bc36983ad211e3749ee37117648a18cd/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/bc36983ad211e3749ee37117648a18cd/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/bc36983ad211e3749ee37117648a18cd/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/bc36983ad211e3749ee37117648a18cd/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/202e7d3c217685a64e780c10e0b65835/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/202e7d3c217685a64e780c10e0b65835/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/202e7d3c217685a64e780c10e0b65835/AndroidManifest.xml:24:13-58
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/2b142b05df9913899e873f5fcfb6d5bc/AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.1.0] /Users/sergiomendoza/.gradle/caches/transforms-2/files-2.1/076fe3f16e4f3013e7eb18f164b725c5/AndroidManifest.xml:33:13-132

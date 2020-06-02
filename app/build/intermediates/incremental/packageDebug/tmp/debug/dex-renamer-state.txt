@@ -1,0 +1,4 @@
+#Tue Jun 02 20:15:43 CEST 2020
+base.0=/Users/sergiomendoza/Projects/AdvancedExample/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
